@@ -1,0 +1,34 @@
+   
+Game idea : 
+
+A game where you need to eat a lot of healthy food in order to win, like for exam if you eat too much burgers or fries your life will go down
+but if you eat fruits or vegetables, your life will go up.
+
+Scenario and characters : 
+
+Basically the characters are stuck between a dilema of eating healthy and eating junk food all the time, therefore the point of the game is to help
+the characters eat as healthy as possible.
+
+Characters' actions and goals :
+
+The characters are going to try and cheat by going towards the unhealthy food, so what you need to do is guide the characters to where the healthy food is in order
+to gain points and level up in the game.
+
+Game Win/Lose conditions :
+
+To win the game you need to make sure the character always eats healthy food and if the character happens to eat too much junk food, your character will lose
+lives.
+
+Progression of levels :
+
+The levels get harder by the time because there will be more junk food available and you need to make sure the character eats healthy and the characters
+will be walking towards the junk food faster in the World when you level up.
+
+Sources of inspiration :
+
+What inspired me about this game is health, because it is important to stay healthy and eat good nutrition for the future when we get older.
+
+What skills/interest you are looking for in a team mate :
+
+I am looking for collegues that are good in graphic designing and programming, also someone who likes to try different type of sounds to see which one would properly fit
+the game.
